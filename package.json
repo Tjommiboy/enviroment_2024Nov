@@ -1,0 +1,29 @@
+{
+  "name": "enviroment_2024nov",
+  "version": "0.0.1",
+  "description": "Application that tells jokes",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anand Chetty anandchetty5071@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tjommiboy/enviroment_2024Nov.git"
+  },
+  "keywords": [
+    "css",
+    "e-commerce",
+    "portfolio",
+    "website"
+  ],
+  "bugs": {
+    "url": "https://github.com/Tjommiboy/enviroment_2024Nov/issues"
+  },
+  "homepage": "https://github.com/Tjommiboy/enviroment_2024Nov#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
+}
