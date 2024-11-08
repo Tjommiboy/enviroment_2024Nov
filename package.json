@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Tjommiboy/enviroment_2024Nov/issues"
   },
-  "homepage": "https://github.com/Tjommiboy/enviroment_2024Nov#readme"
+  "homepage": "https://github.com/Tjommiboy/enviroment_2024Nov#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
