@@ -1,6 +1,6 @@
 {
   "name": "enviroment_2024nov",
-  "version": "0.1.0",
+  "version": "0.0.4",
   "description": "Application that tells jokes",
   "type": "module",
   "main": "index.js",
@@ -28,6 +28,6 @@
     "prettier": "^3.3.3"
   },
   "dependencies": {
-    "give-me-a-joke": "^0.3.2"
+    "give-me-a-joke": "^0.5.1"
   }
 }
